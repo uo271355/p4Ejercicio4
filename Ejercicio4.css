@@ -1,0 +1,29 @@
+body{
+	box-sizing: border-box;
+    background-color:white;
+    color:black;
+	margin: 25px 50px;
+}
+header{
+	padding:30px;
+	background:#C0C5FC;
+	text-align:center;
+	color:black;
+}
+img{
+	padding: 10px; 
+	margin: 10px;
+	float: left; 
+	width: 200px;
+	height:100px;
+}
+h1{
+	background:#C0C5FC;
+	text-align:center;
+	color:black;
+}
+h2{
+    text-align:center;
+	background:#D4E7FF;
+    color:#416FA9;
+}
